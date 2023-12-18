@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CYkir
+- 👋 Hi, Muzakir
 - 👀 I’m interested in Full Stack Develiper
 - 🌱 I’m currently learning in Politekni LP3I Medan
 - 📫 How to reach me mvzakiir@gmail.com 0r wa number : http://wa.me/6282274307291
