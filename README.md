@@ -1,4 +1,4 @@
-- 👋 Hi, Muzakir
+- 👋 Hi, I am Muzakir
 - 👀 I’m interested in Full Stack Developer 
 - 🌱 I’m currently learning in Universitas Prima Indonesia (UNPRI)
 - 📫 How to reach me mvzakiir@gmail.com or wa number : http://wa.me/6282274307291
