@@ -2,7 +2,7 @@
 <h3 align="center">🌐 Fullstack Web & 📱 Android Developer | Tech Explorer | Always Learning</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+love+to+build+cool+things+with+code.;Fullstack+Web+%2B+Android+are+my+playgrounds." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+love+to+build+cool+things+with+code.;FFullstack+Web+%2B+Android+are+my+playgrounds." alt="Typing SVG" />
 </p>
 
 ---
