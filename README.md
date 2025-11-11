@@ -44,10 +44,7 @@
 ![Material UI](https://img.shields.io/badge/Material_UI-0081CB?style=flat&logo=mui&logoColor=white)
 ![Shadcn/UI](https://img.shields.io/badge/shadcn/ui-000000?style=flat&logo=shadcnui&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white)
-![Ant Design](https://img.shields.io/badge/Ant_Design-0170FE?style=flat&logo=antdesign&logoColor=white)
-![Mantine](https://img.shields.io/badge/Mantine-339AF0?style=flat&logo=mantine&logoColor=white)
 ![Bulma](https://img.shields.io/badge/Bulma-00D1B2?style=flat&logo=bulma&logoColor=white)
-![Foundation](https://img.shields.io/badge/Foundation-0A0A0A?style=flat&logo=foundation&logoColor=white)
 ![Flowbite](https://img.shields.io/badge/Flowbite-38B2AC?style=flat&logo=flowbite&logoColor=white)
 ![Headless UI](https://img.shields.io/badge/Headless_UI-000000?style=flat&logo=headlessui&logoColor=white)
 
