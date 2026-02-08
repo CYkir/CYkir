@@ -53,9 +53,9 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-#### 🐍 Other Languages
+#### Other Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+<!--- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) --->
 
 
 #### 🧰 Tools & Platform
