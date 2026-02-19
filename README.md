@@ -86,7 +86,7 @@
 <p align="center">
   <a href="mailto:mvzakiir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/muzakir-66818229b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://wa.me/6282274307291"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a>
+  <!---<a href="https://wa.me/6282274307291"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white"/></a> -->
 </p>
 
 ---
