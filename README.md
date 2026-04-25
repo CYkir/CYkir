@@ -7,9 +7,9 @@
 
 ---
 
-### 🙋‍♂️ Tentang Saya
+### Tentang Saya
 
-- 👨‍🎓 Mahasiswa Informatika di Universitas Prima Indonesia ![UNPRI](https://unprimdn.ac.id/assets/public/general/logo-white.png)
+- Mahasiswa Informatika di Universitas Prima Indonesia ![UNPRI](https://unprimdn.ac.id/assets/public/general/logo-white.png)
 - 💡 Fokus di **Fullstack Web Dev** (frontend + backend) dan **Android Development**
 - 🚀 Sering ngoprek pakai: `HTML`, `CSS`, `JavaScript`,  `SQL`
 - 🛠️ Lagi ngulik: **ReactJS**, **Laravel**,  **Firebase**, **Kotlin**, **Golang**, dan **Laravel**
