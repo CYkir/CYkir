@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 I'm Muzakir</h1>
-<h3 align="center">🌐 Fullstack Web & 📱 Android Developer | Tech Explorer | Always Learning</h3>
+<h3 align="center">Fullstack Web &  Android Developer | AI aenginering (LLm) | Always Learning</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;I+love+to+build+cool+things+with+code.;FFullstack+Web+%2B+Android+are+my+playgrounds." alt="Typing SVG" />
@@ -18,7 +18,7 @@
 
 ---
 
-### 🔧 Tools & Tech yang Biasa Dipakai
+### Tools & Tech yang Biasa Dipakai
 
 #### 💻 Languages & Frameworks
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
