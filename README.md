@@ -50,11 +50,11 @@
 ![Flowbite](https://img.shields.io/badge/Flowbite-38B2AC?style=flat&logo=flowbite&logoColor=white)
 ![Headless UI](https://img.shields.io/badge/Headless_UI-000000?style=flat&logo=headlessui&logoColor=white)
 
-```
-#### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-```
+
+<!--- #### Databases --->
+<!--- ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) -->
+
 
 #### Other Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
