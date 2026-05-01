@@ -20,22 +20,24 @@
 
 ### Tools & Tech yang Biasa Dipakai
 
-#### 💻 Languages & Frameworks
+#### Languages & Frameworks
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![VB.NET](https://img.shields.io/badge/VB.NET-512BD4?style=flat&logo=.net&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-#### ⚙️ Frameworks & Backend
+
+#### Frameworks & Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![CodeIgniter 3](https://img.shields.io/badge/CodeIgniter%203-EF4223?style=flat&logo=codeigniter&logoColor=white)
 ![CodeIgniter 4](https://img.shields.io/badge/CodeIgniter%204-DD4814?style=flat&logo=codeigniter&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
 
-#### 🌐 Frontend Frameworks & UI
+#### Frontend Frameworks & UI
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -48,26 +50,28 @@
 ![Flowbite](https://img.shields.io/badge/Flowbite-38B2AC?style=flat&logo=flowbite&logoColor=white)
 ![Headless UI](https://img.shields.io/badge/Headless_UI-000000?style=flat&logo=headlessui&logoColor=white)
 
-
-#### 🛢️ Databases
+```
+#### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+```
 
 #### Other Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
 <!--- ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) --->
 
 
-#### 🧰 Tools & Platform
+#### Tools & Platform
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white)
+
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=CYkir&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -81,7 +85,7 @@
 
 ---
 
-### 🌍 Let's Connect!
+### Let's Connect!
 
 <p align="center">
   <a href="mailto:mvzakiir@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
