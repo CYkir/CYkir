@@ -80,16 +80,17 @@
   
   <br/>
 
+
+ <!-- Statistik Dasar -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CYkir&theme=radical" width="48%"  />
+  <!-- Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CYkir&theme=radical&utcOffset=8" width="48%" />
+  
+  <br/>
+  
   <!-- Top Languages (Dua kolom agar lebih rapi) -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CYkir&theme=radical" width="48%" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CYkir&theme=radical" width="48%" />
-
-  <br/>
-  
- <!-- Statistik Dasar -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CYkir&theme=radical" />
-  <!-- Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CYkir&theme=radical&utcOffset=8" />
 
 </div>
 
