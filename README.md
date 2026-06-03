@@ -73,15 +73,18 @@
 
 ### GitHub Stats
 
-<div align="center">
+<p align="center">
   
   <img src="https://github-readme-stats.vercel.app/api?username=CYkir&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYkir&layout=compact&hide_border=true&theme=radical" alt="Top Langs" />
-
+</p>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=CYkir&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
 
-</div>
 ---
 
 ### Let's Connect!
