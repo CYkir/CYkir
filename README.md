@@ -106,6 +106,14 @@
 
 ---
 
+### Activity
+<!-- Activity Graph -->
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=CYkir&theme=radical&area=true&line=ff4500&point=ffffff" alt="CYkir's Activity Graph" />
+  </a>
+
+---
+
 ### Let's Connect!
 
 <p align="center">
