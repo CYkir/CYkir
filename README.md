@@ -71,18 +71,26 @@
 
 ---
 
-### 📊 GitHub Stats & Summary
+###  GitHub Profile Summary
 
 <div align="center">
 
-  <!-- Summary Card (Menampilkan ringkasan kontribusi) -->
+  <!-- Ringkasan Utama -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CYkir&theme=radical" />
-
-  <!-- Stats Card (Statistik dasar) -->
+  
+  <!-- Statistik Dasar -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CYkir&theme=radical" />
 
-  <!-- Language Card (Bahasa yang paling sering digunakan) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CYkir&theme=radical" />
+  <br/>
+
+  <!-- Top Languages (Dua kolom agar lebih rapi) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CYkir&theme=radical" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CYkir&theme=radical" width="48%" />
+
+  <br/>
+
+  <!-- Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CYkir&theme=radical&utcOffset=8" />
 
 </div>
 
@@ -91,14 +99,6 @@
 ### GitHub Stats
 
 <div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=CYkir&show_icons=true&hide_border=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  
-  <br/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CYkir&layout=compact&hide_border=true&theme=radical" alt="Top Langs" />
-
-  <br/>
 
   <img src="https://streak-stats.demolab.com?user=CYkir&theme=radical&hide_border=true" alt="GitHub Streak" />
 
