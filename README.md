@@ -71,6 +71,23 @@
 
 ---
 
+### 📊 GitHub Stats & Summary
+
+<div align="center">
+
+  <!-- Summary Card (Menampilkan ringkasan kontribusi) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CYkir&theme=radical" />
+
+  <!-- Stats Card (Statistik dasar) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CYkir&theme=radical" />
+
+  <!-- Language Card (Bahasa yang paling sering digunakan) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CYkir&theme=radical" />
+
+</div>
+
+---
+
 ### GitHub Stats
 
 <div align="center">
