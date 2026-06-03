@@ -76,7 +76,7 @@
 <div align="center">
 
   <!-- Ringkasan Utama -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CYkir&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CYkir&theme=radical"  width="98%" />
   
   <br/>
 
